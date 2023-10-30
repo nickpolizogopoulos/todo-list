@@ -1,0 +1,1 @@
+A simple todo list exercise by Dave Gray. I find Dave a very good teacher and this implementation helped me understand that things like this list can happen outside of Libraries || Frameworks as well.
